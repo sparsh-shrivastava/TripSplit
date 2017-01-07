@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/combo_activity_goto_people"
+        android:title="Done"
+        android:icon="@drawable/icon_people"
+        app:showAsAction="always"/>
+
+</menu>
